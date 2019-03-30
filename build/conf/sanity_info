@@ -1,0 +1,4 @@
+SANITY_VERSION 1
+TMPDIR /home/mitch/git/screwing_with_bitbake/build/tmp
+SSTATE_DIR /home/mitch/git/screwing_with_bitbake/build/sstate-cache
+NATIVELSBSTRING gentoo
