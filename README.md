@@ -1,4 +1,4 @@
-# screwing_with_bitbake
+# messing_with_bitbake
 
 To build:
 
